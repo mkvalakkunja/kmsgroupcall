@@ -20,8 +20,8 @@ let rooms = {};
 const argv = minimst(process.argv.slice(2), {
     default: {
         //as_uri: 'http://localhost:3000',
-        as_uri: 'https://localhost:3000',
-        ws_uri: 'ws://54.223.104.239:8888/kurento'
+        as_uri: 'https://206.189.141.97:3000',
+        ws_uri: 'ws://localhost:8888/kurento'
     }
 });
 
