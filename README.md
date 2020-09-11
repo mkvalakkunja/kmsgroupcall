@@ -58,3 +58,7 @@ server-side Must be trusted https
 or
 
 modify the server-side code to http (Only Firefox support)
+
+### Group call working in chrome, firefox, opera.
+### Not working in safari, internet explorer.
+### screen sharing feature will be added soon.
